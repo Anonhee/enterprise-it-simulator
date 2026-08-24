@@ -1,4 +1,20 @@
-# Enterprise IT Simulator
+# Enterprise IT Map
+
+## Level 1 — IT Domains
+
+```text
+Enterprise IT
+│
+├── Network
+├── Identity
+├── Endpoint
+├── Compute
+├── Data
+├── Cloud
+└── Operations
+
+Cross-cutting:
+└── Security# Enterprise IT Simulator
 
 > Learn Enterprise IT Architecture by building and simulating a company.
 
